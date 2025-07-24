@@ -1,0 +1,12 @@
+#box{
+    background-color: pink;
+    /* color: white; */
+    text-align: center;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+    color: pink;
+}

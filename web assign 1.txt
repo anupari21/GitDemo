@@ -1,0 +1,25 @@
+create page : education , experience and project and link these with home page 
+
+
+Page layout techniques 
+Semantic tags(like  header , main , footer) , non-semantic tages(like div)
+
+
+<header>
+<h1> education </h1> 
+<h1> experience </h1>
+
+
+</header> 
+
+Section tag , article tag , aside tag (content aside main content like ads)
+
+<a href="https://www.google.com/" target="_main">Google</a>  = to open link in different tab we use target
+
+
+to add css file in html we use
+<link rel="stylesheet" href = "app.css" > and it go header of html
+
+text -align
+font-weight
+text-decoration : for underline , overline , line-through , blue underline
